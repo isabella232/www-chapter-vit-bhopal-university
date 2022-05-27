@@ -27,6 +27,9 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
+
+![Logo](/assets/images/OWASP.png)
+
 Welcome to OWASP VIT Bhopal University chapter home page. 
 The VIT Bhopal University chapter focused on improving application security knowledge in university students while building strong community interaction with OWASP projects. The main motive of this chapter is to enrich the infosec community in our place.
 
