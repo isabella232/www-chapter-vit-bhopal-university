@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP VIT Bhopal University
 tags: owasp-VITBhopal
 region: Asia
+country: India
 meetup-group:
 
 ---
