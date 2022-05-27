@@ -1,5 +1,5 @@
 ### VIT Bhopal University Information
-* Provide Group Information
+* [VIT Bhopal University](https://vitbhopal.ac.in/)
 
 ### Social Links
 * [Meetup](#)
