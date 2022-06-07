@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP VIT Bhopal University
+title: OWASP VIT Bhopal University - Student Chapter
 tags: owasp-VITBhopal
 region: Asia
 country: India
